@@ -1,0 +1,7 @@
+X:\Windows Form Application\Watch\Watch\bin\Debug\Watch.exe
+X:\Windows Form Application\Watch\Watch\bin\Debug\Watch.pdb
+X:\Windows Form Application\Watch\Watch\obj\x86\Debug\Watch.Form1.resources
+X:\Windows Form Application\Watch\Watch\obj\x86\Debug\Watch.Properties.Resources.resources
+X:\Windows Form Application\Watch\Watch\obj\x86\Debug\Watch.csproj.GenerateResource.Cache
+X:\Windows Form Application\Watch\Watch\obj\x86\Debug\Watch.exe
+X:\Windows Form Application\Watch\Watch\obj\x86\Debug\Watch.pdb
